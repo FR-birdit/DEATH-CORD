@@ -1,0 +1,12 @@
+Requirements (if you are on macOS, linux)
+
+os
+time
+random
+colorama
+discord_webhook
+requests
+tkinter
+webbrowser
+socket
+discord
